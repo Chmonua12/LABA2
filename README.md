@@ -45,7 +45,8 @@
 
 ## Результаты тестирования
 
-<img width="1668" height="292" alt="image" src="https://github.com/user-attachments/assets/130d5224-c662-410b-b765-f8a1704aaa6c" />
+<img width="1144" height="206" alt="image" src="https://github.com/user-attachments/assets/e249d5dd-d209-4a1a-97ae-74d94a67cfbc" />
+
 
 ### Ключевые наблюдения
 Самая быстрая коллекция для большинства операций: List<T>
